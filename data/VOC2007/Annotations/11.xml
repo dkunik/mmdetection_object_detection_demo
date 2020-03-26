@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes_peq</folder>
+	<filename>011.jpg</filename>
+	<path>/Users/dk/Desktop/DATOS_DK/imagenes/testRED/imagenes_peq/011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dk_retro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>7</ymin>
+			<xmax>441</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
